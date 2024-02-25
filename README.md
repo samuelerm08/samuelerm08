@@ -6,5 +6,5 @@
  <h3>📝About me</h3> 
  <p>I like to be constantly growing. Learning new ways to affront challenges and take the best decisions for provide best solutions</p>   
  <h3>💻Tech-Skills:</h3>
- <p> .NET | SQL | Angular | React | Kotlin </p>   
+ <p> .NET Core | SQL | TypeScript | Angular | JavaScript | React | JSON | JWT | Kotlin | Git | SCRUM | Azure DevOps | DynamoDB </p>   
 </div>
